@@ -1,0 +1,34 @@
+/* add your CSS here */
+.trading_card {
+    width: 324px;
+    height: 620px;
+    background-color: #f8f8ef;
+    border: 2px solid; border-color: #a6bbbb; border-radius: 7% 3%;
+    font-family: "Oswald", sans-serif;
+    font-size: small;
+    font-weight: 400;
+    filter:drop-shadow(0 0 0.75rem lightgray);
+}
+.animal_name {
+    margin: 12px;
+}
+.animal_characteristics {
+    width: 285px;
+    border: 1px solid #a6bbbb;
+    margin: 12px;
+    padding: 7px 7px 7px 7px;
+}
+.interesting_fact {
+    font-style: italic;
+}
+img {
+    width: 300px;
+    margin: 12px;
+}
+.list_items {
+    list-style: none;
+    padding-left: 3px;
+}
+span {
+    font-weight: 600;
+}
